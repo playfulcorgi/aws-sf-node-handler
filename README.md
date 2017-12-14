@@ -1,4 +1,4 @@
-[More information about AWS Step Functions][5]
+[What is AWS Step Functions][5]
 
 # Building a Docker image
 ```bash
