@@ -1,0 +1,6 @@
+export default [
+	'AWS_KEY_ID',
+	'AWS_ACCESS_KEY',
+	'AWS_ACTIVITY_ARN',
+	'AWS_STEP_FUNCTION_REGION'
+]
