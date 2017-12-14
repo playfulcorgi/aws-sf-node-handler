@@ -7,8 +7,8 @@
     "build": "webpack --progress --colors",
     "dev": "webpack --progress --colors --watch",
     "start": "node -r dotenv/config deploy/index",
-    "docker-build": "docker build -t tniezg/aws-step-function-poller .",
-    "docker-run": "docker run --rm -ti --env-file=.env tniezg/aws-step-function-poller"
+    "docker-build": "docker build -t playfulcorgi/aws-step-function-poller .",
+    "docker-run": "docker run --rm -ti --env-file=.env playfulcorgi/aws-step-function-poller"
   },
   "author": "Playful Corgi",
   "license": "ISC",
